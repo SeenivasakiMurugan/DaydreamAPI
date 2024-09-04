@@ -1,2 +1,6 @@
 ".vs/" 
 ".vs/" 
+*.v2
+*.vsidx
+*.suo
+*.json
