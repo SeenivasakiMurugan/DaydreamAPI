@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Mine\\Project\\API\\Daydream\\Daydream\\Daydream\\Daydream.csproj": {}
+    "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Vasaki\\Project\\Daydream\\API\\Daydream\\Daydream.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Mine\\Project\\API\\Daydream\\Daydream\\Daydream\\Daydream.csproj": {
+    "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Vasaki\\Project\\Daydream\\API\\Daydream\\Daydream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Mine\\Project\\API\\Daydream\\Daydream\\Daydream\\Daydream.csproj",
+        "projectUniqueName": "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Vasaki\\Project\\Daydream\\API\\Daydream\\Daydream.csproj",
         "projectName": "Daydream",
-        "projectPath": "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Mine\\Project\\API\\Daydream\\Daydream\\Daydream\\Daydream.csproj",
+        "projectPath": "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Vasaki\\Project\\Daydream\\API\\Daydream\\Daydream.csproj",
         "packagesPath": "C:\\Users\\EMPULSE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Mine\\Project\\API\\Daydream\\Daydream\\Daydream\\obj\\",
+        "outputPath": "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Vasaki\\Project\\Daydream\\API\\Daydream\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

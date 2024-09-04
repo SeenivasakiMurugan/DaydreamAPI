@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CmU6CHSIXaY=",
+  "dgSpecHash": "+ZL/ryNmqEQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Mine\\Project\\API\\Daydream\\Daydream\\Daydream\\Daydream.csproj",
+  "projectFilePath": "C:\\Users\\EMPULSE\\Documents\\Seenivasaki\\Vasaki\\Project\\Daydream\\API\\Daydream\\Daydream.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EMPULSE\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\EMPULSE\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
