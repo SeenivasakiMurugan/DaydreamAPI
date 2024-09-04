@@ -6,7 +6,7 @@ namespace Daydream.BAL.Service.Interface
 {
     public interface IUserService
     {
-        public Task<JsonResponse> AddUpdateUser(User user);
+        public Task<JsonResponse> AddUpdateUser(User user); 
 
         public Task<JsonResponse> Login(string? username, string? password);
     }

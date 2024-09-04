@@ -6,7 +6,7 @@ namespace Daydream.BAL.Service.Interface
 {
     public interface IStoryService
     {
-        public Task<DataSet> StoryUpdate(Story story);
+        public Task<DataSet> StoryUpdate(Story story); 
 
         public Task<DataSet> GetStoryList(int stroryId, int storyTypeId);
 
